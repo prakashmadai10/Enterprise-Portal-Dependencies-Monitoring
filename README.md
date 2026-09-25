@@ -315,6 +315,6 @@ Most tables are updated in place. **Run history** and **Changes** append rows on
 
 ## Credits
 
-The idea of scanning item data for references began with AlderMaps' open `AGOL_Monitoring_Dependencies` notebook in [arcgis-python-api](https://github.com/AlderMaps/arcgis-python-api), written for ArcGIS Online. Esri has since added a native “Used by” portal view that covers part of the direct-dependency use case.
+The idea of scanning item data for references began with AlderMaps' open [`AGOL_Monitoring_Dependencies` notebook](https://github.com/AlderMaps/arcgis-api-python/blob/main/AGOL_Monitoring_Dependencies.ipynb), written for ArcGIS Online. Esri has since added a native “Used by” portal view that covers part of the direct-dependency use case.
 
 This project has since rebuilt the table schema and dashboard and added Enterprise support, in-place table updates, broken-reference and sharing checks, inactive-item tracking, run history, change tracking, and indirect-impact analysis.
