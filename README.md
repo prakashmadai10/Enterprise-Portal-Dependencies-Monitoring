@@ -1,5 +1,7 @@
 # Portal dependencies monitor
 
+[Watch the demo](demo.mp4)
+
 See how items in your ArcGIS Enterprise portal depend on each other before you change or delete them.
 
 > If I delete this, what breaks?
