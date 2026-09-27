@@ -1,6 +1,6 @@
 # Portal dependencies monitor
 
-[Watch the demo](demo.mp4)
+![Demo](demo.gif)
 
 See how items in your ArcGIS Enterprise portal depend on each other before you change or delete them.
 
